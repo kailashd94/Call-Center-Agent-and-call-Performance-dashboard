@@ -11,5 +11,5 @@
 6. **Call Answered**: Indicates whether the call was answered (e.g., "Yes" or "No").
 7. **Resolved**: Indicates whether the issue was resolved during the call (e.g., "Yes" or "No").
 8. **Speed of Answer**: The amount of time it took for the call to be answered (e.g., "00:02:23").
-9. **Everest Stock Duration**: A metric, possibly related to the duration of an activity (e.g., "10 70 24").
+9. **Average Talk Duration**: A metric, possibly related to the duration of an average talk with customer  (e.g., "10 70 24").
 10. **Satisfaction Rating**: A set of ratings possibly indicating the satisfaction level, such as customer feedback (e.g., "3 4 5").
