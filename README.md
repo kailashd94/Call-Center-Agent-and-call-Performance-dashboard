@@ -1,4 +1,4 @@
-# Call-Center-Agent-and-call-Performance-dashboard
+# Call-Centre-Agent-and-call-Performance-dashboard
 **Technology used Power BI**:Used for creating interactive dashboard and intial data preprocessing ,calculation and creating Quick summaries.
 
 **Data Description**: The dataset with various columns representing different aspects of Agent and call performance. Here's a breakdown of the columns:
